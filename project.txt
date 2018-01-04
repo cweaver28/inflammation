@@ -2,3 +2,5 @@ some initial data anlysis to identify how inflammation changes over time after s
 Jane s a data scientis and samit is a statistician. we'll eed to determine who is responsible for what in this project.
 
 we may need to bring in a thirs person with puthon skills
+
+they will need to be familiar with matplotlib and ggplot
